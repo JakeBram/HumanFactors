@@ -1,4 +1,4 @@
-# HumanFactors
+# Human Factors
 For Final Project Submission at TXST, for Human Factors of Computing Systems
 
 For Juypter Notebook analysis, the user must install these python libraries- pandas, numpy, seaborn, sk-learn (optional).
