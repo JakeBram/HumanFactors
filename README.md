@@ -12,7 +12,7 @@ The easiest way is to open the app, click on the Library icon, and type "LiquidC
 The second way to install the library is to find it on their website or other sources, download and manually drag it to the Arduino/libraries folder
 
 If none of this worked, that actually happened to me
-We should preinstall C++, VS code and find the extension "PlatformIO IDE"
+We should preinstall C++, VS code and find the extensions WSL and "PlatformIO IDE"
 Here's the link https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide 
 After that, we need to open a new project, assign what type of board used and find the library on their page in "Libraries"
 At the bottom we can we see a check mark and arrow
